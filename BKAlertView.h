@@ -2,8 +2,8 @@
 //  BKAlertView.h
 //  BonjourKit
 //
-//  Created by あんのたん on 2009/07/27.
-//  Copyright 2009 株式会社パンカク. All rights reserved.
+//  Created by Takayoshi Sato on 2009/07/27.
+//  Copyright 2009 Takayoshi Sato. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
